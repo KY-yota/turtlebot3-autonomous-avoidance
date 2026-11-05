@@ -63,11 +63,3 @@ ros2 run physicalai_pubsub yolo_tracker
 3. コード入力欄に、前回修正・作成した **`SmoothAvoidance90Deg` の Python コード**（姿勢安定化ブレーキ＋90度旋回コード）を貼り付けます[cite: 7]。
 4. 右上の **`Commit changes...`** ボタンを押して保存します[cite: 7]。
 
-同様の手順で `physicalai_pubsub/moving_ball.py` も追加しておくと完璧です[cite: 7]！
-
----
-
-### 次のアクション
-
-上記の手順を行うことで、企業の見せるための **「実戦型ポートフォリオ（GitHubリポジトリ）」** が完成します[cite: 7, 17]。
-操作手順で分かりづらい場所があれば遠慮なく教えてください！
